@@ -17,10 +17,22 @@ My research lies in the intersection of Internet-of-Things (IoT) and deep learni
 - Mobile Systems
 
 <h1> Research Snapshots </h1>
+
 - Ubiquitous IoT Sensing for Smart Healthcare
+  - Practical tremor detection: mmTremor
+  - Parkinson assessment with free speeches: [PDAssess](https://dl.acm.org/doi/10.1145/3625687.3625805)
+  - Contactless arterial blood pressure waveform monitoring: [WaveBP](https://dl.acm.org/doi/10.1145/3699781)
+  - Full-functional spirometery with earphone: [EarSpiro](https://dl.acm.org/doi/10.1145/3569480)
 - AI-empowered Wireless Systems
+  - FDD MIMO channel compression: [CSI-StripeFormer](https://ieeexplore.ieee.org/document/10229094/)
+  - TDD MIMO channel prediction:  [CS3T-UNet](https://ieeexplore.ieee.org/document/10621187/)
 - Practical IoT System Optimization
-- Robust and AI Algorithms
+  - Source-free adaptation for activity recognition: [SF-Adapter](https://dl.acm.org/doi/10.1145/3631428)
+  - Multi-user indoor localization with metasurface-aided Wi-Fi: [RIScan](https://dl.acm.org/doi/10.1145/3625687.3625806)
+<!-- - Robust and AI Algorithms
+  - Periodic capability extension for multimodal large language model: Period-LLM
+  - Improve backdoor defense: CBD
+  - Hierarchial graph transformer: ANS-GT -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
