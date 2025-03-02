@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. candidate in the Department of Computer Science and Engineering, the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Qian Zhang](https://home.cse.ust.hk/~qianzh/). I obtained my bachelor's degree from the School of the Gift Young at University of Science and Technology (USTC), majoring in Computer Science and Technology and advised by [Prof. Wei Gong](https://ubiot.ustc.edu.cn/weigong/main.htm).
+I am a final-year Ph.D. candidate in the Department of Computer Science and Engineering, the Hong Kong University of Science and Technology (HKUST), supervised by [Prof. Qian Zhang.](https://home.cse.ust.hk/~qianzh/) I obtained my bachelor's degree from the School of the Gift Young at University of Science and Technology (USTC), majoring in Computer Science and Technology and advised by [Prof. Wei Gong.](https://ubiot.ustc.edu.cn/weigong/main.htm)
 
 My research lies in the intersection of Internet-of-Things (IoT) and deep learning techniques. I aim to build efficient, robust, and intelligent systems for ubiquitous IoT applications, like smart healthcare. I am broadly interested in challenging problems with practical impact and keep open-minded to cross-disciplinary problems. Feel free to email me if you want to chat.
 
@@ -21,7 +21,7 @@ My research lies in the intersection of Internet-of-Things (IoT) and deep learni
 - Ubiquitous IoT Sensing for Smart Healthcare
   - Practical tremor detection: mmTremor
   - Parkinson assessment with free speeches: [PDAssess](https://dl.acm.org/doi/10.1145/3625687.3625805)
-  - Contactless arterial blood pressure waveform monitoring: [WaveBP](https://dl.acm.org/doi/10.1145/3699781)
+  - Contactless blood pressure waveform monitoring: [WaveBP](https://dl.acm.org/doi/10.1145/3699781)
   - Full-functional spirometery with earphone: [EarSpiro](https://dl.acm.org/doi/10.1145/3569480)
 - AI-empowered Wireless Systems
   - FDD MIMO channel compression: [CSI-StripeFormer](https://ieeexplore.ieee.org/document/10229094/)
@@ -29,6 +29,7 @@ My research lies in the intersection of Internet-of-Things (IoT) and deep learni
 - Practical IoT System Optimization
   - Source-free adaptation for activity recognition: [SF-Adapter](https://dl.acm.org/doi/10.1145/3631428)
   - Multi-user indoor localization with metasurface-aided Wi-Fi: [RIScan](https://dl.acm.org/doi/10.1145/3625687.3625806)
+
 <!-- - Robust and AI Algorithms
   - Periodic capability extension for multimodal large language model: Period-LLM
   - Improve backdoor defense: CBD
