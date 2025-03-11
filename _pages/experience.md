@@ -16,9 +16,11 @@ author_profile: true
 <h2> Academic Service </h2>
 
 - Reviewer
-   - 2023 ACM ToSN
-   - 2024 IEEE TMC, ICASSP; ACM IMWUT/Ubicomp
    - 2025 IEEE ICASSP, IJCNN; CVF/IEEE CVPR, ICCV; ACM IMWUT/Ubicomp, CHI, TIST
+   - 2024 IEEE TMC, ICASSP; ACM IMWUT/Ubicomp
+   - 2023 ACM ToSN
+   
+   
   
 <h2> Industry Experience </h2>
 
