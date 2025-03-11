@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Biography - Qingyong Hu's Homepage"
-author_profile: true
+# author_profile: true
 redirect_from: 
   - /about/
   - /about.html
