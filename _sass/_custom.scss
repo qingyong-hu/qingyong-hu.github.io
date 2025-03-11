@@ -1,0 +1,15 @@
+.page__content {
+  .archive__item-title {
+    margin-top: 2em;
+    max-width: none;
+  }
+  
+  p, div {
+    max-width: none;  // Remove max-width restriction
+  }
+}
+
+.archive {
+  max-width: none;  // Remove max-width restriction
+  padding-right: 0;
+} 
