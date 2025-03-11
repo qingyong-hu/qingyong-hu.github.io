@@ -11,7 +11,7 @@ author_profile: true
 
 <h2> 2024 </h2>
 
-- **[ACM IMWUT/Ubicomp'24]** **Qingyong Hu**,  Qian Zhang, Hao Lu, Shun Wu, Yuxuan Zhou, Qianyi Huang, Huangxun Chen, Yingcong Chen, Ni Zhao, ["Contactless Arterial Blood PressureWaveform Monitoring with mmWave Radar"]().
+- **[ACM IMWUT/Ubicomp'24]** **Qingyong Hu**,  Qian Zhang, Hao Lu, Shun Wu, Yuxuan Zhou, Qianyi Huang, Huangxun Chen, Yingcong Chen, Ni Zhao, ["Contactless Arterial Blood PressureWaveform Monitoring with mmWave Radar"](files\paper1.pdf).
 - **[ACM IMWUT/Ubicomp'24]** Hua Kang, **Qingyong Hu**,  Qian Zhang, "SF-Adapter: Computational-Efficient Source-Free Domain Adaptation for Human Activity Recognition".
 - **[IEEE INFOCOM'24]** Hua Kang, **Qingyong Hu**,  Huangxun Chen, Qianyi Huang, Qian Zhang, Min Cheng, "Cross-Shaped Separated Spatial-Temporal UNet Transformer for Accurate Channel Prediction".
 - **[Communications Engineering'24]** Yandao Huang, Lin Chen, Chenggao Li, Junyao Peng, **Qingyong Hu**,  Sun Yu, Ren Hao,Wen Jin, Weibin Cheng, Tian Junzhang, KaishunWu,Weimin Lyu, Changyuan Yu, Qian Zhang, "AI-driven System for Non-contact Continuous Nocturnal Blood Pressure Monitoring using Fiber Optic Ballistocardiography".
