@@ -7,19 +7,11 @@ redirect_from:
   - /resume
 ---
 
-<div class="cv-buttons">
-  <a href="https://qingyong-hu.github.io/files/cv/Qingyong_CV_latest.pdf" class="btn btn--primary" target="_blank">Download CV as PDF</a>
-  <a href="#" class="btn" id="toggle-pdf-view">Show HTML Version</a>
-</div>
 
 <div id="pdf-view">
   {% include pdf-viewer.html pdf_url="https://qingyong-hu.github.io/files/cv/Qingyong_CV_latest.pdf" %}
 </div>
 
-<div id="cv-content" style="display: none;">
-  <!-- Your existing CV content here -->
-  {% include cv-content.html %}
-</div>
 
 <script>
   document.getElementById('toggle-pdf-view').addEventListener('click', function(e) {
