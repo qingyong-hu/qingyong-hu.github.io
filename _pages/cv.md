@@ -7,7 +7,39 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<div class="cv-buttons">
+  <a href="/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV as PDF</a>
+  <a href="#" class="btn" id="toggle-pdf-view">Toggle PDF View</a>
+</div>
+
+<div id="pdf-view" style="display: none;">
+  {% include pdf-viewer.html pdf_url="https://qingyong-hu.github.io/files/cv/Qingyong_CV_latest.pdf" %}
+</div>
+
+<div id="cv-content">
+  <!-- Your existing CV content here -->
+  {% include cv-content.html %}
+</div>
+
+<script>
+  document.getElementById('toggle-pdf-view').addEventListener('click', function(e) {
+    e.preventDefault();
+    var pdfView = document.getElementById('pdf-view');
+    var cvContent = document.getElementById('cv-content');
+    
+    if (pdfView.style.display === 'none') {
+      pdfView.style.display = 'block';
+      cvContent.style.display = 'none';
+      this.textContent = 'Show HTML Version';
+    } else {
+      pdfView.style.display = 'none';
+      cvContent.style.display = 'block';
+      this.textContent = 'Toggle PDF View';
+    }
+  });
+</script>
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +93,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

@@ -13,3 +13,23 @@
   max-width: none;  // Remove max-width restriction
   padding-right: 0;
 } 
+
+/* PDF Viewer Styling */
+.pdf-container {
+  width: 100%;
+  margin: 2em 0;
+  
+  object {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+}
+
+.cv-buttons {
+  margin-bottom: 2em;
+  
+  .btn {
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
+} 

@@ -1,0 +1,24 @@
+<!-- Education -->
+<h2>Education</h2>
+<ul>
+  <li>Ph.D in Computer Science, Hong Kong University of Science and Technology, 2020-present</li>
+  <li>B.Eng in Computer Science, University of Science and Technology of China, 2015-2020</li>
+</ul>
+
+<!-- Work experience -->
+<h2>Work experience</h2>
+<ul>
+  <li>Research Assistant, HKUST, 2020-present</li>
+  <li>Software Development Engineer Intern, Tencent, 2019</li>
+  <li>Analyst Intern, AlphaStartups, 2018</li>
+</ul>
+
+<!-- Publications -->
+<h2>Publications</h2>
+<ul>
+  {% for post in site.publications reversed %}
+    <li>{{ post.citation }}</li>
+  {% endfor %}
+</ul>
+
+<!-- Add more sections as needed --> 
