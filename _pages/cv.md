@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 <div class="cv-buttons">
-  <a href="/files/cv.pdf" class="btn btn--primary" target="_blank">Download CV as PDF</a>
-  <a href="#" class="btn" id="toggle-pdf-view">Toggle PDF View</a>
+  <a href="https://qingyong-hu.github.io/files/cv/Qingyong_CV_latest.pdf" class="btn btn--primary" target="_blank">Download CV as PDF</a>
+  <a href="#" class="btn" id="toggle-pdf-view">Show HTML Version</a>
 </div>
 
-<div id="pdf-view" style="display: none;">
+<div id="pdf-view">
   {% include pdf-viewer.html pdf_url="https://qingyong-hu.github.io/files/cv/Qingyong_CV_latest.pdf" %}
 </div>
 
-<div id="cv-content">
+<div id="cv-content" style="display: none;">
   <!-- Your existing CV content here -->
   {% include cv-content.html %}
 </div>
@@ -34,7 +34,7 @@ redirect_from:
     } else {
       pdfView.style.display = 'none';
       cvContent.style.display = 'block';
-      this.textContent = 'Toggle PDF View';
+      this.textContent = 'Show PDF Version';
     }
   });
 </script>
